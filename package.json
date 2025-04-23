@@ -1,0 +1,34 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "This is react tutorial",
+  "scripts": {
+    "test": "jest",
+    "parcel": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratapmaharana/react-app.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Pratap Chandra Maharana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratapmaharana/react-app/issues"
+  },
+  "homepage": "https://github.com/pratapmaharana/react-app#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "defaults and fully supports es6-module",
+    "maintained node versions"
+  ]
+}
